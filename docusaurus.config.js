@@ -11,16 +11,16 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://doc.mijnakte.be',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/doc/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'playmobiel', // Usually your GitHub org/user name.
+  organizationName: 'pandect', // Usually your GitHub org/user name.
   projectName: 'doc', // Usually your repo name.
-
+  trailingSlash: false,
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
