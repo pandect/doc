@@ -97,7 +97,11 @@ a)    de testamenten die bij authentieke akte, ten overstaan van een notaris, ee
 
 ## NABAN
 
-### Nog verder uit te werken
+:::opgepast
+
+Dit moet nog aangevuld worden.
+
+:::
 
 Toevoegen:
 Naban - gegevens reg (partijen - aktetype,...)
