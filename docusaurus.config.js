@@ -33,6 +33,8 @@ const config = {
     locales: ['en'],
   },
 
+  onBrokenLinks: 'log',
+
   presets: [
     [
       'classic',
@@ -42,7 +44,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          // routeBasePath: '/', // Serve the docs at the site's root
+          routeBasePath: '/', // Serve the docs at the site's root
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
