@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg18"
+   width="170.58266"
+   height="83.895996"
+   viewBox="0 0 170.58266 83.895996"
+   sodipodi:docname="logo"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath42">
+      <path
+         d="M 0,231.853 H 396.672 V 0 H 0 Z"
+         id="path40" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.7585764"
+     inkscape:cx="85.188868"
+     inkscape:cy="67.24483"
+     inkscape:window-width="2560"
+     inkscape:window-height="1410"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g26">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page24"
+       width="170.58266"
+       height="83.895996" />
+  </sodipodi:namedview>
+  <g
+     id="g26"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,-179.156,221.63733)">
+    <path
+       d="m 178.41,154.692 h 60.824 v 11.536 H 178.41 Z"
+       style="fill:#00bac6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path28" />
+    <path
+       d="m 201.481,137.914 h 60.823 v 11.535 h -60.823 z"
+       style="fill:#00bac6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path30" />
+    <path
+       d="m 219.309,120.086 h -60.824 v 11.535 h 60.824 z"
+       style="fill:#00bac6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path32" />
+    <path
+       d="m 134.367,103.306 h 60.824 v 11.536 h -60.824 z"
+       style="fill:#00bac6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path34" />
+  </g>
+</svg>
