@@ -72,7 +72,7 @@ const config = {
         title: 'NotDoc',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo-sven.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
