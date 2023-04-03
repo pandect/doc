@@ -22,7 +22,7 @@ const config = {
   projectName: 'doc', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
-  onBrokenLinks: 'throw',
+  // onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -45,8 +45,8 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           routeBasePath: '/', // Serve the docs at the site's root
-          // editUrl:
-          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+           editUrl:
+            'https://github.com/pandect/doc/edit/main/',
         },
         blog: false,  
       //  blog: {
@@ -54,7 +54,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
       //    editUrl:
-      //      'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+      //      'https://github.com/pandect/doc/tree/main/packages/create-docusaurus/templates/shared/',
       //  },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -74,7 +74,7 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-        items: [
+        /* items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
@@ -83,15 +83,15 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/pandect/doc',
             label: 'GitHub',
             position: 'right',
           },
-        ],
+        ], */
       },
       footer: {
         style: 'dark',
-        links: [
+        /* links: [
           {
             title: 'Docs',
             items: [
@@ -131,8 +131,8 @@ const config = {
               },
             ],
           },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        ],*/
+        copyright: `Copyright © ${new Date().getFullYear()} Pandect BV`,
       },
       prism: {
         theme: lightCodeTheme,

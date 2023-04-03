@@ -9,7 +9,7 @@ sidebar_position: 1
 Enkel voor overlijdens vanaf 1 april 2023.
 :::
 
-[eNotariaat](https://portal.fednot.be/nl/juridische-bibliotheek/akte-en-attest-van-erfopvolging-nalatenschappen-opengevallen-vanaf-1-april)
+Voor meer uitgebreide toelichting: [eNotariaat](https://portal.fednot.be/nl/juridische-bibliotheek/akte-en-attest-van-erfopvolging-nalatenschappen-opengevallen-vanaf-1-april)
 
 De erfrechtverklaring wordt thans niet meer uitsluitend opgemaakt voor vrijgave tegoeden, maar ook als **algemeen bewijs van devolutie** voor erfgerchtigen, erfgenamen en bijzondere legatarissen[^1].
 
@@ -19,7 +19,7 @@ In principe kan akte/attest worden opgemaakt op verzoek van elke persoon die opg
 :::tip
 
 Gebruik de juiste term in de akte. Erfgerechtigde is nog geen erfgenaam.
-Dit is ook belangrijk voor correcte opname van personen in het [CER](/../administratief/databanken#CER) (4.127, §1 van het Burgerlijk Wetboek).
+Dit is ook belangrijk voor correcte opname van personen in het [CER](/../administratief/databanken/crf#CER) (4.127, §1 van het Burgerlijk Wetboek).
 :::
 
 ## Op te nemen in akte

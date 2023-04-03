@@ -1,0 +1,8 @@
+{
+  "label": "Databanken",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Databanken van de federatie."
+  }
+}
