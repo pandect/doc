@@ -85,15 +85,22 @@ a)    de testamenten die bij authentieke akte, ten overstaan van een notaris, ee
 | CRH  | 20     | Samenlevingsovereenkomst (art. 1478 oud Burgerlijk Wetboek) |
 | CRH  | 30     | Verklaring van anticipatieve inbreng                        |
 
-### CER
+### CER {#CER}
 
-| Type | Omschrijving                                                      |
-| ---- | ----------------------------------------------------------------- |
-| CER  | Akte van erfopvolging                                             |
-| CER  | Attest van erfopvolging                                           |
-| CER  | Europese erfrechtverklaring                                        |
-| CER  | Verklaring van verwerping                                         |
-| CER  | Verklaring van aanvaarding onder voorrecht van boedelbeschrijving |
+| Type | Nummer | Omschrijving                                                      |
+| ---- | ------ | ----------------------------------------------------------------- |
+| CER  | 15     | Akte van erfopvolging - roerend                                   |
+| CER  | 16     | Akte van erfopvolging - roerend - zonder erfgenamen               |
+| CER  | 20     | Akte van erfopvolging - onroerend                                 |
+| CER  | 21     | Akte van erfopvolging - onroerend - zonder erfgenamen             |
+| CER  | 25     | Akte van erfopvolging - gemengd                                   |
+| CER  | 26     | Akte van erfopvolging - gemengd - zonder erfgenamen               |
+| CER  | 35     | Attest van erfopvolging                                           |
+| CER  | 36     | Attest van erfopvolging - zonder erfgenamen                       |
+| CER  | 45     | Europese erfrechtverklaring                                       |
+| CER  | 46     | Europese erfrechtverklaring - zonder erfgenamen                   |
+| CER  | 50     | Verklaring van verwerping                                         |
+| CER  | 60     | Verklaring van aanvaarding onder voorrecht van boedelbeschrijving |
 
 ## NABAN
 
