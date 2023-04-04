@@ -6,24 +6,26 @@ sidebar_position: 2
 
 ## EPC
 
-## Definities
-<dl>
-  <dt><strong>niet-residentieel gebouw</strong></dt>
-  <dd>een gebouw met een niet-residentiële hoofdbestemming met uitzondering van:
-1. alleenstaande gebouwen met een totale bruikbare vloeroppervlakte van minder dan 50 m2;
-2. tijdelijke gebouwen die in principe niet langer dan twee jaar worden gebruikt;
-3. gebouwen die worden gebruikt voor erediensten en religieuze activiteiten;
-4. industriële gebouwen;
-5. werkplaatsen;
-6. opslagplaatsen voor niet-industrieel gebruik;
-7. gebouwen van een landbouwgebouw die niet voor bewoning bestemd zijn;
-8. elektriciteitscabines.</dd>
-  <dt><strong>Easier to use</strong></dt>
-  <dd>We've changed the product so that it's much easier to use!</dd>
-  <dt><strong>Safe for kids</strong></dt>
-  <dd>You can leave your kids alone in a room with this product and they
-      won't get hurt (not a guarantee).</dd>
-</dl>
+## Definities[^1]
+1. niet-residentieel gebouw
+  een gebouw met een niet-residentiële hoofdbestemming met uitzondering van:
+   1. alleenstaande gebouwen met een totale bruikbare vloeroppervlakte van minder dan 50 m2;
+   2. tijdelijke gebouwen die in principe niet langer dan twee jaar worden gebruikt;
+   3. gebouwen die worden gebruikt voor erediensten en religieuze activiteiten;
+   4. industriële gebouwen;
+   5. werkplaatsen;
+   6. opslagplaatsen voor niet-industrieel gebruik;
+   7. gebouwen van een landbouwgebouw die niet voor bewoning bestemd zijn;
+   8. elektriciteitscabines.
+2. niet-residentiële eenheid
+  een gebouweenheid met niet-residentiële hoofdbestemming, met uitzondering van:
+   1. eenheden in tijdelijke gebouwen die in principe niet langer dan twee jaar worden gebruikt;
+   2. eenheden die worden gebruikt voor erediensten en religieuze activiteiten;
+   3. werkplaatsen;
+   4. opslagplaatsen voor niet-industrieel gebruik;
+   5. eenheden van een landbouwgebouw die niet voor bewoning bestemd zijn;
+   6. elektriciteitscabines.
+
 
 ### Wanneer nodig
 
@@ -47,3 +49,4 @@ niet- residentiële bestemming: 5 jaar geldig ❗ (ongeachte kleine of grote nie
 
 ## EPC gemene delen
 
+[^1]: Artikel 1.1.1 Besluit van de Vlaamse Regering van 19 november 2010 houdende algemene bepalingen over het energiebeleid
