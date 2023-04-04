@@ -18,6 +18,11 @@ ook een inbreng in huwgemeenschap valt onder deze uitzondering, als uiteraard aa
 1. de natuurlijk personen die inbrengen waren beiden reeds eigenaar van het goed
 2. het goed wordt voor en na de inbreng als hoofdverblijfplaats gebruikt
 
+### Opeenvolgende overdrachten
+
+Bij notariele overdracht in volle eigendom, of vestigen van een opstalrecht of erfpacht wordt, gaat de verplichting over op de nieuwe eigenaar of de erfpachter of opstalhouder, om binnen de nog resterende termijn te voldoen aan het minimaal energieprestatieniveau dat gehaald moest worden.
+Indien het te behalen minimaal energieprestatieniveau sindsdien werd verstrengd: bijkomend de verplichting om binnen een gestelde termijn na het verlijden van de authentieke akte aan dat verstrengde minimaal energieprestatieniveau te voldoen.
+
 ### Overlijden
 
 Geen verplichting bij overlijden. Verplichting gaat wel over op erfgenamen indien deze reeds bestond:
@@ -63,8 +68,8 @@ Vrijstelling voor sloop, bepaalde uitzonderingen voor niet-residentieel gebouw d
 
 [^1]: Artikel 11.2/2.1, §1, vijfde lid Energiedecreet
 [^2]: Artikel 11.2/2.1, §1, tweede lid, 1° Energiedecreet
-[^3]: Artikel 9.3.1 Energiedecreet
-[^4]: Artikel 9.3.2 Energiedecreet
-[^5]: Artikel 9.3.2 Energiedecreet
-[^6]: Artikel 9.3.4 Energiedecreet
-[^7]: Artikel 9.3.5 Energiedecreet
+[^3]: Artikel 9.3.1 Energiebesluit
+[^4]: Artikel 9.3.2 Energiebesluit
+[^5]: Artikel 9.3.2 Energiebesluit
+[^6]: Artikel 9.3.4 Energiebesluit
+[^7]: Artikel 9.3.5 Energiebesluit
