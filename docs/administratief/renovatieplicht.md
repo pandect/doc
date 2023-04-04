@@ -9,12 +9,15 @@ sidebar_position: 4
 ### Overdracht 
 
 Authentieke akte bij een notariële overdracht in volle eigendom, het vestigen of overdragen van een opstalrecht of het vestigen of overdragen van een erfpacht.[^3]
+
 *Zonnepanelen*: Vestigen of overdragen van een opstalrecht of erfpacht op het dak is vrijgesteld[^5].
 
-Als een notariële overdracht in volle eigendom van een deel van die volle eigendom plaatsvindt tussen natuurlijke personen die allen reeds eigenaar zijn van één residentieel gebouw in kwestie, en waarbij minstens een van hen daar zijn hoofdverblijfplaats heeft en behoudt, dan is er geen verplichting, vermeld in het eerste lid.[^1]
+### Afstand / inbreng
+> Als er in het kader van echtscheiding of de beëindiging van een al dan niet wettelijke samenwoning een notariële overdracht in volle eigendom van een deel van die volle eigendom plaatsvindt tussen natuurlijke personen die allen reeds eigenaar zijn van het residentieel gebouw en waarbij minstens een van hen daar zijn hoofdverblijfplaats heeft en behoudt, dan is er geen verplichting, vermeld in het eerste lid.
+> Als een notariële overdracht in volle eigendom van een deel van die volle eigendom plaatsvindt tussen natuurlijke personen die allen reeds eigenaar zijn van één residentieel gebouw in kwestie, en waarbij minstens een van hen daar zijn hoofdverblijfplaats heeft en behoudt, dan is er geen verplichting, vermeld in het eerste lid.[^1]
 
 Administratieve tolerantie VEKA: 
-ook een inbreng in huwgemeenschap valt onder deze uitzondering, als uiteraard aan de verschillende voorwaarden voldaan is:
+ook een **inbreng in huwgemeenschap** valt onder deze uitzondering, als aan de voorwaarden voldaan is:
 1. de natuurlijk personen die inbrengen waren beiden reeds eigenaar van het goed
 2. het goed wordt voor en na de inbreng als hoofdverblijfplaats gebruikt
 
@@ -22,6 +25,9 @@ ook een inbreng in huwgemeenschap valt onder deze uitzondering, als uiteraard aa
 
 Bij notariele overdracht in volle eigendom, of vestigen van een opstalrecht of erfpacht wordt, gaat de verplichting over op de nieuwe eigenaar of de erfpachter of opstalhouder, om binnen de nog resterende termijn te voldoen aan het minimaal energieprestatieniveau dat gehaald moest worden.
 Indien het te behalen minimaal energieprestatieniveau sindsdien werd verstrengd: bijkomend de verplichting om binnen een gestelde termijn na het verlijden van de authentieke akte aan dat verstrengde minimaal energieprestatieniveau te voldoen.
+
+#### Fusie, spliting en overname
+Geen verplichting, wel overname van eventuele bestaande verplichtingen[^8].
 
 ### Overlijden
 
@@ -73,3 +79,4 @@ Vrijstelling voor sloop, bepaalde uitzonderingen voor niet-residentieel gebouw d
 [^5]: Artikel 9.3.2 Energiebesluit
 [^6]: Artikel 9.3.4 Energiebesluit
 [^7]: Artikel 9.3.5 Energiebesluit
+[^8]: Artikel 11.2/2.1, Energiedecreet
