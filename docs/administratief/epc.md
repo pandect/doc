@@ -4,8 +4,6 @@ sidebar_position: 2
 
 # Energieprestatie
 
-## EPC
-
 ## Definities[^1]
 1. **niet-residentieel gebouw**
   
@@ -28,6 +26,7 @@ sidebar_position: 2
    5. eenheden van een landbouwgebouw die niet voor bewoning bestemd zijn;
    6. elektriciteitscabines.
 
+## EPC
 
 ### Wanneer nodig
 
@@ -37,7 +36,7 @@ Wetgeving zoals van toepassing **vanaf 1 mei 2023**.
 
 :::
 
-Een EPC is thans nodig voor elke notariële overdracht in volle eigendom, alsook de vestiging van een erfpacht- en opstalrecht. Ook bij fusies, slitsingen en translatieve verdelingen is een EPC vereist.
+Een EPC is thans nodig voor **elke notariële overdracht in volle eigendom**, alsook de vestiging van een erfpacht- en opstalrecht. Ook bij fusies, slitsingen en translatieve verdelingen is een EPC vereist.
 Er is geen EPC nodig bij overdrachten van erfpacht en opstal. Rekening houdende met de formulering "in volle eigendom" neem ik aan dat bij schenking van de blote eigendom ook geen EPC vereist is. 
 
 ### In overeenkomst [^2]
@@ -52,7 +51,7 @@ Residentieel en niet-residentieel:
 2. of het energieprestatiecertificaat residentiële gebouwen aan de tegenpartij ter beschikking is gesteld
 3. de datum en de unieke code van het geldige energieprestatiecertificaat residentiële gebouwen
 
-Geen geldig EPC? Meedelen aan VEKA. 
+Geen geldig EPC? Meedelen aan VEKA[^3] (geen gebeuren via app op eNotariaat).
 
 ### Wetgeving:
 [Wetgeving](https://navigator.emis.vito.be/detail?woId=60148&woLang=nl)
@@ -82,3 +81,4 @@ Indien gedurende de geldigheidsduur van een energieprestatiecertificaat bouw voo
 
 [^1]: Artikel 1.1.1 Besluit van de Vlaamse Regering van 19 november 2010 houdende algemene bepalingen over het energiebeleid
 [^2]: Artikels 9.2.3 & 9.2.8 van het energiebesluit
+[^3]:Artikels 9.2.3, 9.2.3/1, 9.2.8 en 9.2.8/1 Energiebesluit.
