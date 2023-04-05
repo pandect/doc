@@ -1,0 +1,8 @@
+{
+  "label": "Vennootschap",
+  "position": 0,
+  "link": {
+    "type": "generated-index",
+    "description": "Vennootschapsakten"
+  }
+}

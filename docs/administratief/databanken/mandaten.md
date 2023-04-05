@@ -39,6 +39,8 @@ De statutaire vertegenwoordigingsregelingen. De mandatendatabank gaat enkel over
 Titels "Intern bestuur" en "Externe vertegenwoordiging" opnemen in akte. In deze laatste is het best geen beperkingen op te nemen, want deze zijn niet tegenwerpelijk en dus niet op te nemen in databank (apart opnemen).
 :::
 
+Ook indien de clausules op moment van de toevoeging nog geen uitwerking hebben is het vereist deze op te nemen (bvb nog geen gedelegeerd bestuurder benoemd).
+
 ### Concreet
 
 #### Eénhoofdig bestuursorgaan of meerhoofdig bestuursorgaan met éénhandtekeningsclausule
