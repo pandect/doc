@@ -16,22 +16,16 @@ Er is een verschil tussen bekendmaking en neerlegging (in het vennootschapsdossi
 2. het uittreksel uit de oprichtingsakte zoals bedoeld in [paragraaf 2](#paragraaf2);
 3. (…);
 4. de eerste versie van de tekst van de statuten en bijgewerkte gecoördineerde statuten bij wijzigingen (…);
-5. het uittreksel met vermelding van de naam, voornaam, woonplaats of voor rechtspersonen hun naam, rechtsvorm, ondernemingsnummer en zetel betreffende de benoeming en ambtsbeëindiging van:
-
-- de personen gemachtigd om de vennootschap te besturen en te vertegenwoordigen+;
-- de vereffenaars+;
-- de voorlopige bewindvoerders+
-- de leden van de raad van toezicht+;
-- en, de commissarissen.
-
-+Met de omvang van hun bevoegdheid nader aangegeven, alsook de wijze waarop zij deze uitoefenen, ofwel alleen dan wel gezamenlijk, of als college.
-
+5. het uittreksel met vermelding van de naam, voornaam, woonplaats of voor rechtspersonen hun naam, rechtsvorm, ondernemingsnummer en zetel betreffende de benoeming en ambtsbeëindiging van (met de omvang van hun bevoegdheid nader aangegeven, alsook de wijze waarop zij deze uitoefenen, ofwel alleen dan wel gezamenlijk, of als college - muv commissaris):
+    - de personen gemachtigd om de vennootschap te besturen en te vertegenwoordigen;
+    - de vereffenaars;
+    - de voorlopige bewindvoerders;
+    - de leden van de raad van toezicht;
+    - en, de commissarissen.
 6. (…)
 7. een verklaring, ondertekend door de bevoegde organen van de vennootschap, waarin wordt vermeld:
-
-- de ontbinding van de vennootschap;
-- het feit dat de functie van de persoon bedoeld in de bepaling onder 5., van rechtswege is beëindigd;
-  
+    - de ontbinding van de vennootschap;
+    - het feit dat de functie van de persoon bedoeld in de bepaling onder 5., van rechtswege is beëindigd;
 8. de akten of uittreksels van akten die volgens dit wetboek moeten worden neergelegd;
 9. de akten die bepalingen wijzigen in akten waarvoor dit wetboek de neerlegging voorschrijft;
 10. (…)
