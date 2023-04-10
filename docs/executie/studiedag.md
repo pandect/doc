@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Executiemogelijkheden
 
+## Notas studiedag
+
 ## Overdraagbaarheid
 
 ### Eenheidsbeginsel (zakenrecht)
