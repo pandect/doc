@@ -186,7 +186,33 @@ Controleverslag
 
 ### Bekendmaking bij inbreng in natura
 
-Mededeling van het ontwerp van de neergelegde stukken. Kan in voet bij ontledend uittreksel bekendmaking akte. 
+Mededeling van het onderwerp van de neergelegde stukken. Kan in voet bij ontledend uittreksel bekendmaking akte. 
+
+## Uitgifte van nieuwe aandelen
+
+### Neerlegging bij nieuwe aandelen
+
+Verslag bestuursorgaan + controleverslag (5:121).
+
+### Bekendmaking bij nieuwe aandelen
+
+Mededeling van het onderwerp van de neergelegde stukken.
+Conclusie verslag niet op te nemen in akte dus ook niet te publiceren in uittreksel.
+
+## Omzetting
+### Neerlegging bij omzetting
+
+Controleverslag. Verslag bestuursorgaan is niet neer te leggen volgens wet. 
+
+### Bekendmaking bij omzetting
+
+In principe werd in artikel 14:10 geen verwijzing opgenomen naar artikel 2:14. Toch aan te raden onderwerp neergelegd controleverslag te melden bij publicatie omzettingsakte. 
+
+:::alert integrale publicatie
+
+Artikel 14:10 stelt dat omzettingsakte in haar geheel moet worden gepubliceerd (in dus inbegrepen conclusie controleverslag). 
+
+:::
 
 ## Verbetering
 
