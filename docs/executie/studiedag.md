@@ -15,3 +15,5 @@ Goed moet vatbaar zijn voor overdracht. Een aanhorigheid/bijzaak kan niet apart 
 ### Onoverdraagbaar uit aard.
 
 Sommige rechten zijn ook niet overdraagbaar. Zakelijk recht van bewoning (thans wettelijk vermoeden van onoverdraagbaarheid voorzien - art 3.138 BW). Ouderlijk vruchtgenot. Onoverdraag wegens geen economische waarde. Verbintenis om in onverdeeldheid te blijven (beperking 5 jaar). Verklaring van onbeslagbaarheid gezinswoning. Lijfrente om niet (art 1981 oud BW) indien bedongen, dit enkel voor reeds bestaande schulden.
+
+Test

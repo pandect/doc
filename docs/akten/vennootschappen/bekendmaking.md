@@ -119,6 +119,75 @@ Binnen 10 dagen na neerlegging (art 2:13 WVV).
 
 Tegenwerpelijk aan derden vanaf bekendmaking (art 2:18 WVV).
 
+## Concreet
+
+## Oprichting
+
+### Neerlegging bij oprichting
+
+- Uitgifte authentieke akte
+- Uittreksel
+- Statuten in statutendatabank + clausules vertegenwoordigingsbevoegdheid in mandatendatabank
+
+#### Neerlegging bij inbreng in natura
+
+- Verslag oprichter (art. 2:8 + 5:7, § 1 WVV). In uitzonderlijke gevallen geen verslag bestuursorgaan en revisor nodig, dan wel verklaring bestuursorgaan (5:7, § 2 en § 3 WVV)
+- Controleverslag revisor (5:7 WVV)
+Originele exemplaren of eensluidende verklaarde afschriften.
+
+### Bekendmaking bij oprichting
+
+- Uittreksel
+Dit uittreksel bevat de conclusie van de revisor bij inbreng in natura. 
+Mededeling van de onderwerpen van de neergelegde stukken (art 2:14 WVV) bij neerlegging stukken (inbreng in natura).
+
+#### Bekendmaking bij inbreng in natura
+
+- Mededeling onderwerp (verslag bestuur en verslag revisor of verklaring in uitzonderlijke gevallen)  (art. 2:14, 4° WVV).
+- Conclusie revisor (artikel 2:8,6° j. 2:14,°1 WVV).
+
+## Ontbinding
+
+### Neerlegging bij ontbinding
+
+- Uitgifte authentieke akte (Besluit tot ontbinding + benoeming vereffenaar)
+- Uittreksel
+- Eventuele bijzondere bepalingen aangaande beperking of toewijzing  aan vereffenaars (Zie 2:87 en 2:93 WVV)
+
+### Bekendmaking bij ontbinding
+
+- Uittreksel
+- Eventuele bijzondere bepalingen aangaande beperking of toewijzing bevoegdheid aan vereffenaars (2:14, 1° WVV)
+
+## Vereffening
+
+### Neerlegging bij vereffening
+
+In principe geen notariële handelingen.
+
+## Bevoegheidsdelegatie bijkomende inbrengen
+
+### Neerlegging bij delegatie bijkomende inbrengen
+
+Afschrift van de akte.
+Verslag **niet** neer te leggen.
+
+### Bekendmaking bij delegatie bijkomende inbrengen
+
+Beslissing tot delegatie publiceren (artikel 2:8 + 5:134 WVV).
+
+
+## Inbreng in natura
+
+### Neerlegging bij inbreng in natura
+
+Verslag bestuursorgaan (artikel 5:133)
+Controleverslag
+
+### Bekendmaking bij inbreng in natura
+
+Mededeling van het ontwerp van de neergelegde stukken. Kan in voet bij ontledend uittreksel bekendmaking akte. 
+
 ## Verbetering
 
 Zie artikel 1:9, §5 KB:
@@ -126,6 +195,8 @@ Zie artikel 1:9, §5 KB:
 > De verbetering van een vergissing in een in de Bijlagen bij het Belgisch Staatsblad bekendgemaakte akte, uittreksel van een akte, beslissing of stuk wordt neergelegd en bekendgemaakt overeenkomstig de voorgaande paragrafen.
 > De verbetering van een vergissing in een stuk waarvan de neerlegging werd bekendgemaakt door mededeling in de Bijlagen bij het Belgisch Staatsblad, gebeurt door neerlegging ter griffie, overeenkomstig de voorgaande paragrafen, van één of meer verbeterde of bijkomende bladen, **waarop “verbetering” is vermeld**. Zij worden gevoegd bij een blad waarop de gegevens bedoeld in paragraaf 2, vierde lid zijn vermeld alsook de **aanduiding van het stuk** waarop de verbetering betrekking heeft. De verbeterde of bijkomende bladen worden in het dossier bewaard.
 > De neerlegging van verbeterde of bijkomende bladen wordt door uittreksel in de Bijlagen bij het Belgisch Staatsblad bekendgemaakt.
+
+
 
 ## Relevante wetsartikelen
 
