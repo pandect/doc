@@ -10,43 +10,108 @@ Onvolledig / nog in opmaak
 
 :::
 
-## Oprichting
+## Oprichting met inbreng in natura
 
-### Neerlegging bij oprichting
+Hieronder valt ook de inbreng in nijverheid of arbeid. 
 
-- Uitgifte authentieke akte
-- Uittreksel
-- Statuten in statutendatabank + clausules vertegenwoordigingsbevoegdheid in mandatendatabank
+Geen verplichtingen bij inbreng in geld (wel bankattest).
 
-#### Neerlegging bij inbreng in natura
+### Verslagen bij oprichting met inbreng in natura
 
-- Verslag oprichter (art. 2:8 + 5:7, § 1 WVV). In uitzonderlijke gevallen geen verslag bestuursorgaan en revisor nodig, dan wel verklaring bestuursorgaan (5:7, § 2 en § 3 WVV)
-- Controleverslag revisor
+Verslag van de oprichters (met daarin eventueel verklaring waarom ze afwijken van conclusies bedrijfsrevisor)
+Verslag van de bedrijfsrevisor.
+Geen mogelijkheid tot verzaking (in bepaalde gevallen geen verslagen nodig, bvb inbreng van effecten artikel 5:7).
 
-### Bekendmaking bij oprichting
+### In akte bij oprichting met inbreng in natura
 
-- Uittreksel
+Verslagen in agenda. 
+Conclusie van verslag revisor. Naam revisor (best volledige identiteit).
 
-#### Bekendmaking bij inbreng in natura
+### Wetgeving bij oprichting met inbreng in natura
 
-- Mededeling onderwerp (verslag bestuur en verslag revisor of verklaring in uitzonderlijke gevallen)  (art. 2:14, 4° WVV).
-- Conclusie revisor (artikel 2:8,6° j. 2:14,°1 WVV).
+Verslagen: artikel 5:7 WVV
+Opname in akte: 2:5, 2:5. 5:12 over naam revisor. 
 
-## Ontbinding
+## Bevoegheidsdelegatie bijkomende inbrengen
 
-### Neerlegging bij ontbinding
+### Verslagen bij delegatie bijkomende inbrengen
 
-- Uitgifte authentieke akte (Besluit tot ontbinding + benoeming vereffenaar)
-- Uittreksel
-- Eventuele bijzondere bepalingen aangaande beperking of toewijzing  aan vereffenaars (Zie 2:87 en 2:93 WVV)
+Verslag bij het toekennen van de bevoegdheid of vernieuwen ervan. Opmaak door bestuursorgaan (tenzij oprichters bij oprichting).
+Geen verzaking mogelijk.
 
-### Bekendmaking bij ontbinding
+### In akte bij delegatiebijkomende inbrengen
 
-- Uittreksel
-- Eventuele bijzondere bepalingen aangaande beperking of toewijzing bevoegdheid aan vereffenaars (2:14, 1° WVV)
+Geen conclusies op te nemen. In agenda wel kennisname en bespreking verslag. Tevens opname dat stukken tijdig werd stukken hebben ontvangen, dan wel indidividueel daaraan verzaken indien allen aanwezig (best bevestiging dat verslag voorafgaandelijk werd ontvangen en dat aandeelhouders over voldoende tijd beschikten om dit door te nemen). 
 
-## Vereffening
+### Wetgeving bij delegatie bijkomende inbrengen
 
-### Neerlegging bij vereffening
+Art 5:134 (geen verplicht aan bestuursorgaan volgens letterlijke lezing, doch dit zou niet de bedoeling zijn).
 
-In principe geen notariële handelingen.
+## Inbreng in natura
+
+Bijna gelijk aan deze bij oprichting met inbreng in nature (inbegrepen bankattest bij inbreng in geld).
+
+### Verslagen bij inbreng in natura
+
+Verslag van het bestuursorgaan (met daarin eventueel verklaring waarom ze afwijken van conclusies bedrijfsrevisor)
+:::caution herstructureringen
+
+Bij sommige herstructureringen (geruisloze partiele splitsing) herleven de verslaggevingsverplichtingen inbreng in natura bij verzaking verslagen herstructurering.
+
+:::
+Verslag van de bedrijfsrevisor.
+Geen verzaking mogelijk.
+
+### In akte bij inbreng in natura
+
+Conclusie (controle)verslag revisor + naam revisor. In wet is enkel verwijzing naar inbreng in natura bij oprichting. Er bestaat bijgevolg discussie over deze verplichting (niet vereist volgens letterlijke wettekst). 
+
+### Wetgeving bij inbreng in natura
+5:133 WVV
+
+## Uitgifte van nieuwe aandelen
+
+Van toepassing bij zowel vergoeding door inbreng in geld als in natura
+
+### Verslagen bij uitgifte van nieuwe aandelen
+
+Verslag bestuursorgaan aangaande de verantwoording uitgifteprijs.
+
+Verzaking (aan beide verslagen) is mogelijk bij inbreng in geld mits unaniem akkoord aandeelhouders.
+
+Bij de BV: Controleverslag is enkel nodig indien er een commissaris is. In NV altijd controleverslag vereist.
+
+### In akte bij uitgifte van nieuwe aandelen
+
+Geen verplichte opname conclusies. 
+Wel melding in agenda van verslagen, uiteenzetting dat voorzitter dit heeft toegelicht aan de vergadering, eventuele vragen heeft beantwoord en dat de de verslagen voor zover als nodig worden goedgekeurd.
+
+Eventueel verzaking aan tijdig en correct opsturen noteren (artikel 5:83) met bevestigen dat verslagen tijdig zijn ontvangen en dat de aandeelhouders voldoende tijd hebben gehad hiervan kennis te nemen.
+
+:::info verzaking
+
+De verzaking aan het tijdig opsturen volgens wettelijke wijze is niet hetzelfde als de verzaking aan de verslaggevingsplicht zelf.
+
+:::
+
+### Wetgeving bij uitgifte van nieuwe aandelen
+5:121
+
+## Omzetting
+
+Omzetting in beginsel steeds bij notariele akte. Ook indien omzetting die bij onderhandse akte kan worden opgericht (bvb omzetting van VOF naar CommV)
+
+### Verslagen bij omzetting
+
+Het bestuursorgaan dient het omzettingsvoorstel toe te lichtingen in een verslag opgenomen in de agenda. 
+Een staat van active en passiva dient bij dit verslag te worden gevoegd. Deze mag niet ouder zijn dan **3 maanden** op datum van de algemene vergadering.
+Controleverslag over deze staat van activa en passiva.
+Geen verzaking mogelijk
+
+### In akte bij omzetting
+
+Conclusies van het controleverslag. 
+Ambtsweigering indien kapitaal van nieuwe vennootschapsvorm hoger is dan het uit de staat blijkende netto actief van de om te zetten vennootschap.
+
+### Wetgeving bij omzetting
+art 14:5
