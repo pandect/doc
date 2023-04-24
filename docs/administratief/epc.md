@@ -23,6 +23,10 @@ Voor gebouweenheden met een totale bruikbare vloeroppervlakte van minder dan 50 
 in een industrieel gebouw (of landbouwgebouw) moet geen EPC kleine niet-residentiële gebouwen moet worden opgemaakt (renovatieverplichting wel van toepassing). (Artikel 9.2.7/1, §2, vierde lid Energiebesluit)
 :::
 
+### EPC bij schenking
+
+Bij schenkingen is ook een EPC vereist, doch enkel bij (gedeeltelijke) schenking van de volle eigendom. Geen EPC vereist bij schenking blote eigendom.
+
 ### In overeenkomst [^2]
 
 Residentieel en niet-residentieel:
@@ -49,6 +53,11 @@ Geen geldig EPC? Meedelen aan VEKA[^3] (geen gebeuren via app op eNotariaat).
 Het energieprestatiecertificaat **residentiële gebouwen** heeft een geldigheidsduur van **tien jaar**. Die periode vangt aan op de datum van de opmaak van het energieprestatiecertificaat residentiële gebouwen. Indien gedurende de geldigheidsduur van een energieprestatiecertificaat residentiële gebouwen voor hetzelfde gebouw of dezelfde gebouweenheid echter een nieuw energieprestatiecertificaat wordt opgemaakt, of indien het gebouw of die gebouweenheid van functie verandert, dan heeft dit als gevolg dat de resterende geldigheidsduur van het bestaande energieprestatiecertificaat residentiële gebouwen komt te vervallen.
 
 Het energieprestatiecertificaat **grote niet-residentiële gebouwen** heeft een geldigheidsduur van **vijf jaar**. Die periode vangt aan op de datum van de opmaak van het energieprestatiecertificaat grote niet-residentiële gebouwen. Indien gedurende de geldigheidsduur van een energieprestatiecertificaat grote niet-residentiële gebouwen voor hetzelfde gebouw of dezelfde gebouweenheid echter een nieuw energieprestatiecertificaat wordt opgemaakt, of indien het gebouw of die gebouweenheid van functie verandert, dan heeft dit als gevolg dat de resterende geldigheidsduur van het bestaande energieprestatiecertificaat grote niet-residentiële gebouwen komt te vervallen.
+
+### EPC bij illegaal opgesplitste woningen
+
+Soms kan niet voor elke wooneenheid een EPC worden opgemaakt (geen officieel adres). Indien 1 EPC voor meerdere woongelegenheden of gehele gebouw: steeds melding doen bij VEKA.
+
 
 ## EPB
 
