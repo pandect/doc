@@ -102,6 +102,32 @@ De volle of blote eigenaar. Wanneer het eigendomsrecht in onverdeeldheid is, wor
 
 #### Toegankelijke constructie {#TCR}
 
+Elke constructie met risicobouwjaar [zijnde elke constructie van vóór 2001] die mensen binnen kunnen betreden. Een constructie kan binnen betreden worden als ze minstens bestaat uit een dak dat gedragen wordt door constructie-elementen, en als een mens er normaal in kan staan of lopen. (Decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, artikel 3, §2, 9°)
+
+In memorie van toelichting:
+> de toegankelijkheid verwijst naar de fysieke mogelijkheid voor volwassen mensen om een constructie met risicobouwjaar binnen te betreden en er normaal in te kunnen staan of lopen. Het binnen betreden duidt op het besloten karakter van de constructie met risicobouwjaar, of een deel van de constructie met risicobouwjaar, met als minimale vereiste dat het uit een dak gedragen door constructie-elementen bestaat. Het binnen betreden betreft dan de ruimtelijke binnenprojectie van het dak en de constructie-elementen. Het binnen betreedbare gedeelte van de constructie of de gehele constructie hoeft dus niet wind- en waterdicht te zijn.
+
+Vlarema artikel 5.4.2 stelt:
+> De eigenaar van een toegankelijke constructie met risicobouwjaar hoeft niet te beschikken over een geldig asbestinventarisattest als de grondoppervlakte van die constructie kleiner is dan 20 m². Als meerdere toegankelijke constructies met risicobouwjaar aanwezig zijn, is de som van de grondoppervlaktes kleiner dan 20 m². Onder grondoppervlakte wordt verstaan: de loodrechte, horizontale projectie op het maaiveld van het dak gemeten aan de buitenzijden.
+
+Volgens OVAM is toegangankelijk een minimale sta- of loophoogte van 175 cm.
+
+OVAM stelt:
+Gaat het om een **kleiner gebouwdeel**, vb. een studio van 16 m², dat deel uitmaakt van een groter gebouw? Dan is er **toch een asbestattest nodig**.
+
+
+##### Voorbeelden:
+Toegankelijke constructie:
+* woningen, kantoorgebouwen, landbouwbedrijven,…;
+* een afdak (vier palen en een dak) of een carport;
+* een loods die bijvoorbeeld langs één zijde open is.
+
+Geen toegankelijke constructie:
+* een terrein met enkel een openluchtparking zonder gebouwtjes of een terrein met enkel een schutting;
+* een terrein met een stalletje van 1,4m hoogte;
+* nieuwbouwwoning, met in de tuin een oude garage van 12 m (oppervlaktevereiste van 20m2);
+* autostaanplaats in een appartementsgebouw indien deze geen constructie-elementen hebben (i.t.t. een garage).
+
 ## Wetgeving
 
 Artikel 33/14 en artikel 3, §2, 4° en 8° Materialendecreet.
