@@ -8,13 +8,7 @@ sidebar_position: 2
 
 ### Toepassingsgebied
 
-:::caution inwerkingtreding
-
-Wetgeving zoals van toepassing **vanaf 1 mei 2023**.
-
-:::
-
-Een EPC is thans nodig voor **elke notariële overdracht in volle eigendom**, alsook de vestiging van een erfpacht- en opstalrecht. Ook bij fusies, splitsingen en translatieve verdelingen is een EPC vereist.
+Een EPC is thans nodig voor **elke notariële overdracht in volle eigendom**, alsook de **vestiging van een erfpacht- en opstalrecht**. Ook bij fusies, splitsingen en translatieve verdelingen is een EPC vereist.
 Er is geen EPC nodig bij overdrachten van erfpacht en opstal. Rekening houdende met de formulering "in volle eigendom" neem ik aan dat bij schenking van de blote eigendom ook geen EPC vereist is.
 
 :::info kleine gebouweenheden
@@ -23,9 +17,26 @@ Voor gebouweenheden met een totale bruikbare vloeroppervlakte van minder dan 50 
 in een industrieel gebouw (of landbouwgebouw) moet geen EPC kleine niet-residentiële gebouwen moet worden opgemaakt (renovatieverplichting wel van toepassing). (Artikel 9.2.7/1, §2, vierde lid Energiebesluit)
 :::
 
-### EPC bij schenking
+#### EPC bij schenking
 
 Bij schenkingen is ook een EPC vereist, doch enkel bij (gedeeltelijke) schenking van de volle eigendom. Geen EPC vereist bij schenking blote eigendom.
+
+#### Varia
+
+Vallen onder de EPC-plicht:
+
+* Translatieve verdelingen
+* Schenkingen
+* Inbreng in vennootschap of huwelijksvermogen
+* Fusie of splitsing (waarbij het geen verschil uitmaakt of het voorstel dateert van voor 1 mei 2023, gezien de authentieke akte het spilmoment is voor de inwerkingtreding)
+* Onverdeelde overdrachten, voor zover het uiteraard om de volle eigendom gaat (bv. de overdracht van een onverdeeld aandeel op een woning)
+
+Vallen niet onder de EPC-plicht:
+
+* Declaratieve verdelingen (er is geen “overdracht”)
+* Overdracht erfpacht en opstal (dit in tegenstelling tot de renovatieplicht)
+* Beëindiging erfpacht en opstal
+* Vestiging, overdracht en beëindiging vruchtgebruik
 
 ### In overeenkomst [^2]
 

@@ -8,7 +8,7 @@ sidebar_position: 4
 
 ### Overdracht
 
-Authentieke akte bij een notariële overdracht in volle eigendom, het vestigen of overdragen van een opstalrecht of het vestigen of overdragen van een erfpacht.[^3]
+Authentieke akte bij een **notariële overdracht in volle eigendom**, het **vestigen of overdragen van een opstalrecht of het vestigen of overdragen van een erfpacht**.[^3]
 
 ### Renovatieplicht bij schenking
 
@@ -21,7 +21,9 @@ Bij schenking van een goed dat was aangekocht en waarbij renovatieplicht van toe
 
 ### Afstand / Inbreng
 
-> Als er in het kader van echtscheiding of de beëindiging van een al dan niet wettelijke samenwoning een notariële overdracht in volle eigendom van een deel van die volle eigendom plaatsvindt tussen natuurlijke personen die allen reeds eigenaar zijn van het residentieel gebouw en waarbij minstens een van hen daar zijn hoofdverblijfplaats heeft en behoudt, dan is er geen verplichting, vermeld in het eerste lid.
+#### EOT
+
+> Als er in het kader van echtscheiding of de beëindiging van een al dan niet wettelijke samenwoning een notariële overdracht in volle eigendom van een deel van die volle eigendom plaatsvindt tussen natuurlijke personen die allen reeds eigenaar zijn van het residentieel gebouw en waarbij minstens een van hen daar zijn hoofdverblijfplaats heeft en behoudt, dan is er geen verplichting.
 >
 > Als een notariële overdracht in volle eigendom van een deel van die volle eigendom plaatsvindt tussen natuurlijke personen die allen reeds eigenaar zijn van één residentieel gebouw in kwestie, en waarbij minstens een van hen daar zijn hoofdverblijfplaats heeft en behoudt, dan is er geen verplichting, vermeld in het eerste lid.[^1]
 
@@ -30,6 +32,8 @@ ook een **inbreng in huwelijksgemeenschap** valt onder deze uitzondering, als aa
 
 * de natuurlijk personen die inbrengen waren beiden reeds eigenaar van het goed
 * het goed wordt voor en na de inbreng als hoofdverblijfplaats gebruikt
+
+Bij declaratieve verdelingen geen overdracht dus geen verplichting.
 
 ### Opeenvolgende overdrachten (doorverkoop)
 

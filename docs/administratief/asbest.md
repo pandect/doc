@@ -6,7 +6,11 @@ sidebar_position: 3
 
 ## Toepassingsgebied
 
-Iedere overdracht van een **toegankelijke constructie met risicobouwjaar** onder levenden van een eigendomsrecht (blote eigendom, volle eigendom, onverdeelde recht,...), het onder levenden vestigen of overdragen van een recht van vruchtgebruik, een erfpacht, een opstalrecht of een zakelijk recht van gebruik.
+Iedere overdracht van een **toegankelijke constructie met risicobouwjaar** **onder levenden** van een eigendomsrecht (blote eigendom, volle eigendom, onverdeelde recht,...), het onder levenden **vestigen of overdragen van een recht van vruchtgebruik, een erfpacht, een opstalrecht of een zakelijk recht van gebruik**.
+
+Dus geen verkrijging uit nalatenschap, en ook geen declaratieve verdeling (geen overdracht).
+
+Standpunt OVAM: niet vereist wanneer geen nieuwe eigenaar toetreedt (enot 16831).
 
 ### Schenking
 Asbestinventarisattest vereist.
@@ -97,3 +101,7 @@ risicobouwjaar heeft.
 De volle of blote eigenaar. Wanneer het eigendomsrecht in onverdeeldheid is, wordt elk van de onverdeelde houders van dat recht hoofdelijk en ondeelbaar beschouwd als eigenaar.
 
 #### Toegankelijke constructie {#TCR}
+
+## Wetgeving
+
+Artikel 33/14 en artikel 3, §2, 4° en 8° Materialendecreet.
