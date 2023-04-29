@@ -8,13 +8,7 @@ sidebar_position: 2
 
 ### Toepassingsgebied
 
-:::caution inwerkingtreding
-
-Wetgeving zoals van toepassing **vanaf 1 mei 2023**.
-
-:::
-
-Een EPC is thans nodig voor **elke notariële overdracht in volle eigendom**, alsook de vestiging van een erfpacht- en opstalrecht. Ook bij fusies, splitsingen en translatieve verdelingen is een EPC vereist.
+Een EPC is thans nodig voor **elke notariële overdracht in volle eigendom**, alsook de **vestiging van een erfpacht- en opstalrecht**. Ook bij fusies, splitsingen en translatieve verdelingen is een EPC vereist.
 Er is geen EPC nodig bij overdrachten van erfpacht en opstal. Rekening houdende met de formulering "in volle eigendom" neem ik aan dat bij schenking van de blote eigendom ook geen EPC vereist is.
 
 :::info kleine gebouweenheden
@@ -22,6 +16,27 @@ Er is geen EPC nodig bij overdrachten van erfpacht en opstal. Rekening houdende 
 Voor gebouweenheden met een totale bruikbare vloeroppervlakte van minder dan 50 m² die gelegen zijn
 in een industrieel gebouw (of landbouwgebouw) moet geen EPC kleine niet-residentiële gebouwen moet worden opgemaakt (renovatieverplichting wel van toepassing). (Artikel 9.2.7/1, §2, vierde lid Energiebesluit)
 :::
+
+#### EPC bij schenking
+
+Bij schenkingen is ook een EPC vereist, doch enkel bij (gedeeltelijke) schenking van de volle eigendom. Geen EPC vereist bij schenking blote eigendom.
+
+#### Varia
+
+Vallen onder de EPC-plicht:
+
+* Translatieve verdelingen
+* Schenkingen
+* Inbreng in vennootschap of huwelijksvermogen
+* Fusie of splitsing (waarbij het geen verschil uitmaakt of het voorstel dateert van voor 1 mei 2023, gezien de authentieke akte het spilmoment is voor de inwerkingtreding)
+* Onverdeelde overdrachten, voor zover het uiteraard om de volle eigendom gaat (bv. de overdracht van een onverdeeld aandeel op een woning)
+
+Vallen niet onder de EPC-plicht:
+
+* Declaratieve verdelingen (er is geen “overdracht”)
+* Overdracht erfpacht en opstal (dit in tegenstelling tot de renovatieplicht)
+* Beëindiging erfpacht en opstal
+* Vestiging, overdracht en beëindiging vruchtgebruik
 
 ### In overeenkomst [^2]
 
@@ -49,6 +64,11 @@ Geen geldig EPC? Meedelen aan VEKA[^3] (geen gebeuren via app op eNotariaat).
 Het energieprestatiecertificaat **residentiële gebouwen** heeft een geldigheidsduur van **tien jaar**. Die periode vangt aan op de datum van de opmaak van het energieprestatiecertificaat residentiële gebouwen. Indien gedurende de geldigheidsduur van een energieprestatiecertificaat residentiële gebouwen voor hetzelfde gebouw of dezelfde gebouweenheid echter een nieuw energieprestatiecertificaat wordt opgemaakt, of indien het gebouw of die gebouweenheid van functie verandert, dan heeft dit als gevolg dat de resterende geldigheidsduur van het bestaande energieprestatiecertificaat residentiële gebouwen komt te vervallen.
 
 Het energieprestatiecertificaat **grote niet-residentiële gebouwen** heeft een geldigheidsduur van **vijf jaar**. Die periode vangt aan op de datum van de opmaak van het energieprestatiecertificaat grote niet-residentiële gebouwen. Indien gedurende de geldigheidsduur van een energieprestatiecertificaat grote niet-residentiële gebouwen voor hetzelfde gebouw of dezelfde gebouweenheid echter een nieuw energieprestatiecertificaat wordt opgemaakt, of indien het gebouw of die gebouweenheid van functie verandert, dan heeft dit als gevolg dat de resterende geldigheidsduur van het bestaande energieprestatiecertificaat grote niet-residentiële gebouwen komt te vervallen.
+
+### EPC bij illegaal opgesplitste woningen
+
+Soms kan niet voor elke wooneenheid een EPC worden opgemaakt (geen officieel adres). Indien 1 EPC voor meerdere woongelegenheden of gehele gebouw: steeds melding doen bij VEKA.
+
 
 ## EPB
 
