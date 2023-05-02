@@ -1,5 +1,5 @@
 ---
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 # Bekendmaking
@@ -208,7 +208,7 @@ Controleverslag. Verslag bestuursorgaan is niet neer te leggen volgens wet.
 
 In principe werd in artikel 14:10 geen verwijzing opgenomen naar artikel 2:14. Toch aan te raden onderwerp neergelegd controleverslag te melden bij publicatie omzettingsakte. 
 
-:::alert integrale publicatie
+:::danger integrale publicatie
 
 Artikel 14:10 stelt dat omzettingsakte in haar geheel moet worden gepubliceerd (in dus inbegrepen conclusie controleverslag). 
 
