@@ -22,6 +22,11 @@ Gebruik de juiste term in de akte. Erfgerechtigde is nog geen erfgenaam.
 Dit is ook belangrijk voor correcte opname van personen in het [CER](/../administratief/databanken/crf#CER) (4.127, §1 van het Burgerlijk Wetboek).
 :::
 
+Artikel 4.2 BW:
+
+> **Erfgerechtigden** hebben roeping tot de nalatenschap krachtens de wet, of hebben een algemene roeping of een roeping onder algemene titel tot de nalatenschap door de wil van de erflater.
+> Door de aanvaarding van de nalatenschap neemt de erfgerechtigde de hoedanigheid aan van **erfgenaam**, of erfopvolger.
+
 ## Op te nemen in akte
 
 Bepaalde aspecten van deze lijst dienen niet altijd opgenomen. Vanzelfspreken niet indien niet van toepassing, maar bvb ook niet indien niet vereist voor doeleinden waarvoor attest werd opgemaakt[^3]. Zo bijvoorbeeld, kan een akte of attest van erfopvolging worden opgemaakt waarin de bijzondere
@@ -58,6 +63,10 @@ Andersom is voor de  akte onroerende erfopvolging ook nodig een uittreksel op te
 ## Vrijgave tegoeden
 
 Wat specifiek de communicatie met banken aangaande de vrijage betreft kan best het [protocol (eNot Referentie: 17051)](https://portal.fednot.be/nl/juridische-bibliotheek/vrijgave-van-tegoeden-aan-de-notaris-belast-met-de-vereffening-van-de) worden geraadpleegd.
+
+## CER
+
+Inschrijving in het [CER](/docs/administratief/databanken/crf#CER) is vereist.
 
 ## Relevante wetsartikelen
 
